@@ -1,7 +1,7 @@
 🤖 **AI-Powered Customer Support Chatbot**
 24/7 Virtual Assistant Using Dialogflow \& Streamlit
-
-*A GIF demonstrating the complete Streamlit-based chatbot interface appears here*
+<img width="1815" height="859" alt="Screenshot 2025-07-29 152007" src="https://github.com/user-attachments/assets/d5536254-b88f-4527-8e7d-9c5f433cddc9" />
+<img width="1836" height="958" alt="Screenshot 2025-07-29 152222" src="https://github.com/user-attachments/assets/1b790bc1-af5d-401e-b773-dfb6e39f3775" />
 
 ## Overview
 
