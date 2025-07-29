@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Dialogflow credentials
+*.json
+!coustomer-support-bot/intents/*.json
+
+dialogflow_service_account.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Other
+*.zip 
